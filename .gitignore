@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.streamlit/secrets.toml
+*.pyc
+*.mps
+*.mst
+*.sol
+.DS_Store
+Thumbs.db
+OR project overview.docx

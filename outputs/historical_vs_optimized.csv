@@ -1,0 +1,5 @@
+metric,historical,optimized
+Matches,56,56.0
+Total travel (km),98350.76,89227.92
+Maximum team travel (km),13500.79,15846.49
+Constraint violations,baseline not constrained,0.0

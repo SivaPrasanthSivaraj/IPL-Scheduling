@@ -1,0 +1,57 @@
+match_id,home_team,away_team,venue,date
+7,Chennai Super Kings,Sunrisers Hyderabad,MA Chidambaram Stadium,2019-03-23
+13,Delhi Capitals,Royal Challengers Bangalore,Arun Jaitley Stadium,2019-03-24
+19,Kings XI Punjab,Rajasthan Royals,Punjab Cricket Association IS Bindra Stadium,2019-03-25
+25,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,2019-03-26
+6,Chennai Super Kings,Royal Challengers Bangalore,MA Chidambaram Stadium,2019-03-27
+42,Rajasthan Royals,Sunrisers Hyderabad,Sawai Mansingh Stadium,2019-03-28
+11,Delhi Capitals,Mumbai Indians,Arun Jaitley Stadium,2019-03-29
+17,Kings XI Punjab,Kolkata Knight Riders,Punjab Cricket Association IS Bindra Stadium,2019-03-30
+5,Chennai Super Kings,Rajasthan Royals,MA Chidambaram Stadium,2019-03-31
+34,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,2019-04-01
+28,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,2019-04-02
+9,Delhi Capitals,Kings XI Punjab,Arun Jaitley Stadium,2019-04-03
+4,Chennai Super Kings,Mumbai Indians,MA Chidambaram Stadium,2019-04-04
+26,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,2019-04-05
+20,Kings XI Punjab,Royal Challengers Bangalore,Punjab Cricket Association IS Bindra Stadium,2019-04-06
+14,Delhi Capitals,Sunrisers Hyderabad,Arun Jaitley Stadium,2019-04-07
+3,Chennai Super Kings,Kolkata Knight Riders,MA Chidambaram Stadium,2019-04-08
+18,Kings XI Punjab,Mumbai Indians,Punjab Cricket Association IS Bindra Stadium,2019-04-09
+12,Delhi Capitals,Rajasthan Royals,Arun Jaitley Stadium,2019-04-10
+49,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,2019-04-11
+2,Chennai Super Kings,Kings XI Punjab,MA Chidambaram Stadium,2019-04-12
+10,Delhi Capitals,Kolkata Knight Riders,Arun Jaitley Stadium,2019-04-13
+35,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,2019-04-14
+41,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,2019-04-15
+1,Chennai Super Kings,Delhi Capitals,MA Chidambaram Stadium,2019-04-16
+21,Kings XI Punjab,Sunrisers Hyderabad,Punjab Cricket Association IS Bindra Stadium,2019-04-17
+27,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,2019-04-18
+33,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,2019-04-19
+50,Sunrisers Hyderabad,Chennai Super Kings,Rajiv Gandhi International Stadium,2019-04-20
+44,Royal Challengers Bangalore,Delhi Capitals,M Chinnaswamy Stadium,2019-04-21
+38,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadium,2019-04-22
+32,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,2019-04-23
+43,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,2019-04-24
+55,Sunrisers Hyderabad,Rajasthan Royals,Rajiv Gandhi International Stadium,2019-04-25
+30,Mumbai Indians,Delhi Capitals,Wankhede Stadium,2019-04-26
+24,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,2019-04-27
+36,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,2019-04-28
+47,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,2019-04-29
+53,Sunrisers Hyderabad,Kolkata Knight Riders,Rajiv Gandhi International Stadium,2019-04-30
+16,Kings XI Punjab,Delhi Capitals,Punjab Cricket Association IS Bindra Stadium,2019-05-01
+29,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,2019-05-02
+39,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,2019-05-03
+45,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,2019-05-04
+51,Sunrisers Hyderabad,Delhi Capitals,Rajiv Gandhi International Stadium,2019-05-05
+22,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,2019-05-06
+31,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,2019-05-07
+37,Rajasthan Royals,Delhi Capitals,Sawai Mansingh Stadium,2019-05-08
+56,Sunrisers Hyderabad,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,2019-05-09
+15,Kings XI Punjab,Chennai Super Kings,Punjab Cricket Association IS Bindra Stadium,2019-05-10
+23,Kolkata Knight Riders,Delhi Capitals,Eden Gardens,2019-05-11
+54,Sunrisers Hyderabad,Mumbai Indians,Rajiv Gandhi International Stadium,2019-05-12
+48,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,2019-05-13
+8,Delhi Capitals,Chennai Super Kings,Arun Jaitley Stadium,2019-05-14
+52,Sunrisers Hyderabad,Kings XI Punjab,Rajiv Gandhi International Stadium,2019-05-15
+46,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,2019-05-16
+40,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,2019-05-17

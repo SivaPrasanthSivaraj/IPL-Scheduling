@@ -1,0 +1,65 @@
+from_venue,to_venue,distance_km
+Arun Jaitley Stadium,Arun Jaitley Stadium,0.0
+Arun Jaitley Stadium,Eden Gardens,1300.9
+Arun Jaitley Stadium,M Chinnaswamy Stadium,1741.58
+Arun Jaitley Stadium,MA Chidambaram Stadium,1760.11
+Arun Jaitley Stadium,Punjab Cricket Association IS Bindra Stadium,233.47
+Arun Jaitley Stadium,Rajiv Gandhi International Stadium,1256.03
+Arun Jaitley Stadium,Sawai Mansingh Stadium,240.12
+Arun Jaitley Stadium,Wankhede Stadium,1168.07
+Eden Gardens,Arun Jaitley Stadium,1300.9
+Eden Gardens,Eden Gardens,0.0
+Eden Gardens,M Chinnaswamy Stadium,1557.49
+Eden Gardens,MA Chidambaram Stadium,1357.46
+Eden Gardens,Punjab Cricket Association IS Bindra Stadium,1463.73
+Eden Gardens,Rajiv Gandhi International Stadium,1172.56
+Eden Gardens,Sawai Mansingh Stadium,1354.03
+Eden Gardens,Wankhede Stadium,1662.15
+M Chinnaswamy Stadium,Arun Jaitley Stadium,1741.58
+M Chinnaswamy Stadium,Eden Gardens,1557.49
+M Chinnaswamy Stadium,M Chinnaswamy Stadium,0.0
+M Chinnaswamy Stadium,MA Chidambaram Stadium,290.38
+M Chinnaswamy Stadium,Punjab Cricket Association IS Bindra Stadium,1971.48
+M Chinnaswamy Stadium,Rajiv Gandhi International Stadium,502.72
+M Chinnaswamy Stadium,Sawai Mansingh Stadium,1558.59
+M Chinnaswamy Stadium,Wankhede Stadium,836.32
+MA Chidambaram Stadium,Arun Jaitley Stadium,1760.11
+MA Chidambaram Stadium,Eden Gardens,1357.46
+MA Chidambaram Stadium,M Chinnaswamy Stadium,290.38
+MA Chidambaram Stadium,MA Chidambaram Stadium,0.0
+MA Chidambaram Stadium,Punjab Cricket Association IS Bindra Stadium,1993.55
+MA Chidambaram Stadium,Rajiv Gandhi International Stadium,517.32
+MA Chidambaram Stadium,Sawai Mansingh Stadium,1607.07
+MA Chidambaram Stadium,Wankhede Stadium,1029.98
+Punjab Cricket Association IS Bindra Stadium,Arun Jaitley Stadium,233.47
+Punjab Cricket Association IS Bindra Stadium,Eden Gardens,1463.73
+Punjab Cricket Association IS Bindra Stadium,M Chinnaswamy Stadium,1971.48
+Punjab Cricket Association IS Bindra Stadium,MA Chidambaram Stadium,1993.55
+Punjab Cricket Association IS Bindra Stadium,Punjab Cricket Association IS Bindra Stadium,0.0
+Punjab Cricket Association IS Bindra Stadium,Rajiv Gandhi International Stadium,1488.56
+Punjab Cricket Association IS Bindra Stadium,Sawai Mansingh Stadium,431.89
+Punjab Cricket Association IS Bindra Stadium,Wankhede Stadium,1364.8
+Rajiv Gandhi International Stadium,Arun Jaitley Stadium,1256.03
+Rajiv Gandhi International Stadium,Eden Gardens,1172.56
+Rajiv Gandhi International Stadium,M Chinnaswamy Stadium,502.72
+Rajiv Gandhi International Stadium,MA Chidambaram Stadium,517.32
+Rajiv Gandhi International Stadium,Punjab Cricket Association IS Bindra Stadium,1488.56
+Rajiv Gandhi International Stadium,Rajiv Gandhi International Stadium,0.0
+Rajiv Gandhi International Stadium,Sawai Mansingh Stadium,1092.18
+Rajiv Gandhi International Stadium,Wankhede Stadium,628.33
+Sawai Mansingh Stadium,Arun Jaitley Stadium,240.12
+Sawai Mansingh Stadium,Eden Gardens,1354.03
+Sawai Mansingh Stadium,M Chinnaswamy Stadium,1558.59
+Sawai Mansingh Stadium,MA Chidambaram Stadium,1607.07
+Sawai Mansingh Stadium,Punjab Cricket Association IS Bindra Stadium,431.89
+Sawai Mansingh Stadium,Rajiv Gandhi International Stadium,1092.18
+Sawai Mansingh Stadium,Sawai Mansingh Stadium,0.0
+Sawai Mansingh Stadium,Wankhede Stadium,935.57
+Wankhede Stadium,Arun Jaitley Stadium,1168.07
+Wankhede Stadium,Eden Gardens,1662.15
+Wankhede Stadium,M Chinnaswamy Stadium,836.32
+Wankhede Stadium,MA Chidambaram Stadium,1029.98
+Wankhede Stadium,Punjab Cricket Association IS Bindra Stadium,1364.8
+Wankhede Stadium,Rajiv Gandhi International Stadium,628.33
+Wankhede Stadium,Sawai Mansingh Stadium,935.57
+Wankhede Stadium,Wankhede Stadium,0.0
